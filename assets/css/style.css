@@ -1,0 +1,27 @@
+.header{
+	text-align: center;
+	background-color:#470606;
+	width: 100%;
+	height: 100px;
+	color: white;
+	padding: 0px;
+
+}
+h2{
+	margin: 0px;
+}
+h3{
+	margin:5px;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+}
+
+td{
+border:1px solid black;
+}
+
