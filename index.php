@@ -2,7 +2,7 @@
 	require_once('layout/header.php'); 
 	?>
 
-<div text align="center">Unit of Competency/Module Title</div>
+<div text align="center">Units of Competency/Module Title</div>
 
 <table cellspacing="0px" cellpadding="5px">
 	<tbody>
